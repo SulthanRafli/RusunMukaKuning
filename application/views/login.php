@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Apartemen Trilogi</title>
+    <title>Rusun Muka Kuning</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
     <link rel="icon" href="<?php echo base_url('assets/template/backend/dist') ?>/img/AdminLTELogo.png" type="image/x-icon">
     <link rel="stylesheet" href="<?php echo base_url('assets/plugins') ?>/fontawesome-free/css/all.min.css">
