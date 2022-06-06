@@ -19,10 +19,10 @@ You can use the account below for login access
 
 ## 📸 Screenshots
 
-![Screenshot Login](https://cdn.discordapp.com/attachments/946013429200723989/980702509024837732/Screenshot_from_2022-05-30_11-52-50.png)
-![Screenshot Admin](https://cdn.discordapp.com/attachments/946013429200723989/980702509024837732/Screenshot_from_2022-05-30_11-52-50.png)
-![Screenshot Tenant](https://cdn.discordapp.com/attachments/946013429200723989/980702509024837732/Screenshot_from_2022-05-30_11-52-50.png)
-![Screenshot Technician](https://cdn.discordapp.com/attachments/946013429200723989/980702509024837732/Screenshot_from_2022-05-30_11-52-50.png)
+![Screenshot Login](https://cdn.discordapp.com/attachments/626766421086568448/983364860597387284/Web_capture_6-6-2022_202647_rusun-muka-kuning.epizy.com.jpeg)
+![Screenshot Admin](https://cdn.discordapp.com/attachments/626766421086568448/983364860383494174/Web_capture_6-6-2022_203641_rusun-muka-kuning.epizy.com.jpeg)
+![Screenshot Tenant](https://cdn.discordapp.com/attachments/626766421086568448/983364860194725968/Web_capture_6-6-2022_203714_rusun-muka-kuning.epizy.com.jpeg)
+![Screenshot Technician](https://cdn.discordapp.com/attachments/626766421086568448/983364859733348402/Web_capture_6-6-2022_203756_rusun-muka-kuning.epizy.com.jpeg)
 
 ## 💡 Contributions 
 
