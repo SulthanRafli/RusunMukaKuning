@@ -31,7 +31,7 @@ You can use the account below for login access
 # Install XAMPP
 $ XAMPP Version: 5.6.40
 
-# Clone the project
+# Clone the project to hdocts folder
 $ git clone https://github.com/SulthanRafli/RusunMukaKuning.git
 $ cd RusunMukaKuning
 
