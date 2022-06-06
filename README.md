@@ -24,6 +24,21 @@ You can use the account below for login access
 ![Screenshot Tenant](https://cdn.discordapp.com/attachments/626766421086568448/983364860194725968/Web_capture_6-6-2022_203714_rusun-muka-kuning.epizy.com.jpeg)
 ![Screenshot Technician](https://cdn.discordapp.com/attachments/626766421086568448/983364859733348402/Web_capture_6-6-2022_203756_rusun-muka-kuning.epizy.com.jpeg)
 
+## 🛠️ Development
+
+```
+
+# Install XAMPP
+$ XAMPP Version: 5.6.40
+
+# Clone the project
+$ git clone https://github.com/SulthanRafli/RusunMukaKuning.git
+$ cd RusunMukaKuning
+
+$ Run dev server
+$ php artisan serve
+```
+
 ## 💡 Contributions 
 
 If something is not working properly feel free to write an issue.
